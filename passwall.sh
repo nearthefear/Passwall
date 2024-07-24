@@ -275,9 +275,9 @@ uci commit network
 
 
 uci delete wireless.radio0.disabled='1'
-uci set wireless.default_radio0.ssid='VPN 2G'
+uci set wireless.default_radio0.ssid='xiaomi'
 uci set wireless.default_radio0.encryption='psk2+ccmp'
-uci set wireless.default_radio0.key='10203040'
+uci set wireless.default_radio0.key='Mm******145541'
 uci set wireless.default_radio0.mode='ap'
 uci set wireless.default_radio0.network='lan'
 
